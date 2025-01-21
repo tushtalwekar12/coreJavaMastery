@@ -31,5 +31,8 @@ public class scanner_class_function {
         System.out.println("tell India population :");
         System.out.print("India population :"+sc.nextLong());
 
+        /*next() : nextline() method is used to read multiple words from keyword
+        * next() : method is used to read single word from keyboard.
+        *  */
     }
 }
