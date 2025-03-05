@@ -4,7 +4,7 @@ package section_08_1_assignment;
 import java.lang.*;
 public class Example4 {
     public static void main(String[] args) {
-        double number = 4.5;
+        double number = 4.9;
 
         System.out.println("original value is : "+ number);
         // 1. round() - round to nearest number
